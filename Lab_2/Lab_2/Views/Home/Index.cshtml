@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body onload="load();" onfocus="load();">
+    <br />
+    <input type="text" id="value" />
+    <br />
+    <br />
+    <input type="button" id="getButton" value="GET" />
+    <input type="button" id="postButton" value="POST" />
+    <input type="button" id="putButton" value="PUT" />
+    <input type="button" id="deleteButton" value="DELETE" />
+    <br />
+    <br />
+    <label id="resultLabel" />
+    <hr />
+</body>
+</html>
+
+@section scripts{
+    <script type="text/javascript">
+
+        function load() {
+            $.ajax({
+                url: "http://172.16.0.174:40751/Lab_2/api/values",
+                type: "GET",
+                success: function (data) {
+                    $("#resultLabel").html("Result: " + data)
+                }
+            });
+        }
+
+        $("document").ready(function () {
+            $("#getButton").click(function () {
+                $.ajax({
+                    url: "http://172.16.0.174:40751/Lab_2/api/values",
+                    type: "GET",
+                    success: function (data) {
+                        $("#resultLabel").html("Result: " + data)
+                    }
+                })
+            });
+
+            $("#postButton").click(function () {
+                var value = $("#value").val()
+                $.ajax({
+                    url: "http://172.16.0.174:40751/Lab_2/api/values",
+                    type: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    data: value,
+                    success: function (data) {
+                        $("#resultLabel").text("Edited: " + value)
+                    }
+                })
+            })
+
+            $("#putButton").click(function () {
+                var value = $("#value").val()
+                $.ajax({
+                    url: "http://172.16.0.174:40751/Lab_2/api/values",
+                    type: "PUT",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    data: value,
+                    success: function (data) {
+                        $("#resultLabel").text("Pushed: " + value)
+                    }
+                })
+            });
+
+            $("#deleteButton").click(function () {
+                var value = $("#value").val()
+                $.ajax({
+                    url: "http://172.16.0.174:40751/Lab_2/api/values",
+                    type: "DELETE",
+                    success: function (data) {
+                        $("#resultLabel").html("Deleted: " + value)
+                    }
+                })
+            });
+        });
+    </script>
+}
