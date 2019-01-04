@@ -1,0 +1,116 @@
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\Simplex.dll.config
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\Simplex.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\Simplex.pdb
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\csc.exe
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\csc.exe.config
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\csc.rsp
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\csi.exe
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\csi.exe.config
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\csi.rsp
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.AppContext.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Console.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Claims.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\vbc.exe
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\vbc.exe.config
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\vbc.rsp
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\obj\Debug\Simplex.csprojAssemblyReference.cache
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\obj\Debug\Simplex.csproj.CopyComplete
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\obj\Debug\Simplex.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\obj\Debug\Simplex.pdb
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\Newtonsoft.Json.dll
+C:\Users\dimas\Desktop\Lab_4\Simplex\Simplex\bin\Newtonsoft.Json.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\Simplex.dll.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\Simplex.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\Simplex.pdb
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\csc.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\csc.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\csc.rsp
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\csi.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\csi.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\csi.rsp
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.AppContext.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Console.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.Compression.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.IO.Pipes.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Claims.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.ValueTuple.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Xml.XPath.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\vbc.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\vbc.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\vbc.rsp
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\VBCSCompiler.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\Newtonsoft.Json.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\Newtonsoft.Json.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\obj\Debug\Simplex.csprojAssemblyReference.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\obj\Debug\Simplex.csproj.CopyComplete
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\obj\Debug\Simplex.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_4\Simplex\Simplex\obj\Debug\Simplex.pdb
