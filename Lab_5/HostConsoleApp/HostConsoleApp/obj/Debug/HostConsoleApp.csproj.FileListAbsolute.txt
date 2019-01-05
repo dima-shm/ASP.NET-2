@@ -1,0 +1,16 @@
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\bin\Debug\HostConsoleApp.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\bin\Debug\HostConsoleApp.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\bin\Debug\HostConsoleApp.pdb
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.csprojAssemblyReference.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.csproj.CoreCompileInputs.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.csproj.CopyComplete
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.pdb
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\bin\Debug\HostConsoleApp.exe.config
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\bin\Debug\HostConsoleApp.exe
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\bin\Debug\HostConsoleApp.pdb
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.csprojAssemblyReference.cache
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.csproj.CoreCompileInputs.cache
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.csproj.CopyComplete
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.exe
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\HostConsoleApp\HostConsoleApp\obj\Debug\HostConsoleApp.pdb

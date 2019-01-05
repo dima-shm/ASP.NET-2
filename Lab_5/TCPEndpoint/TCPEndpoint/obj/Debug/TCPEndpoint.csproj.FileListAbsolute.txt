@@ -1,0 +1,14 @@
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\bin\Debug\TCPEndpoint.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\bin\Debug\TCPEndpoint.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\bin\Debug\TCPEndpoint.pdb
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\obj\Debug\TCPEndpoint.csprojAssemblyReference.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\obj\Debug\TCPEndpoint.csproj.CoreCompileInputs.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\obj\Debug\TCPEndpoint.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\obj\Debug\TCPEndpoint.pdb
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\bin\Debug\TCPEndpoint.exe.config
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\bin\Debug\TCPEndpoint.exe
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\bin\Debug\TCPEndpoint.pdb
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\obj\Debug\TCPEndpoint.csprojAssemblyReference.cache
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\obj\Debug\TCPEndpoint.csproj.CoreCompileInputs.cache
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\obj\Debug\TCPEndpoint.exe
+D:\Study\4 Course\1 семестр\ASP.NET\Лабораторные работы\Lab_5\TCPEndpoint\TCPEndpoint\obj\Debug\TCPEndpoint.pdb

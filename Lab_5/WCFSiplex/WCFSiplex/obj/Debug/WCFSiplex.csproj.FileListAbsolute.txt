@@ -1,0 +1,7 @@
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\WCFSiplex\WCFSiplex\bin\Debug\WCFSiplex.dll.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\WCFSiplex\WCFSiplex\bin\Debug\WCFSiplex.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\WCFSiplex\WCFSiplex\bin\Debug\WCFSiplex.pdb
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\WCFSiplex\WCFSiplex\obj\Debug\WCFSiplex.csprojAssemblyReference.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\WCFSiplex\WCFSiplex\obj\Debug\WCFSiplex.csproj.CoreCompileInputs.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\WCFSiplex\WCFSiplex\obj\Debug\WCFSiplex.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_5\WCFSiplex\WCFSiplex\obj\Debug\WCFSiplex.pdb
