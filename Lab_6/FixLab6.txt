@@ -1,0 +1,18 @@
+Install-Package Microsoft.OData.EntityFrameworkProvider -Pre
+USE CLASS EntityFrameworkDataService
+
+
+-------------- OR --------------
+
+
+[ServiceBehavior(IncludeExceptionDetailInFaults = true)]
+[DataServiceKey("id")]
+
+config.SetEntitySetAccessRule("*", EntitySetRights.AllRead);
+config.SetServiceOperationAccessRule("*", ServiceOperationRights.All);
+config.DataServiceBehavior.MaxProtocolVersion = DataServiceProtocolVersion.V2;
+
+
+
+--------- SET ADMIN ROLE FOR USED SQL SERVER USER ---------
+----------------- USE VISUAL STUDIO 2015 ------------------
